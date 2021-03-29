@@ -8,9 +8,11 @@ const Locations = () => {
   const loading = useSelector(state => state.locations.loading)
   return (
     <div id="locations">
-      {loading
-        ? 'loading...'
-        : locations.map(location => <LocationCard location={location} key={location.id} />)}
+      {loading ? (
+        <div class="loader"></div>
+      ) : (
+        locations.map(location => <LocationCard location={location} key={location.id} />)
+      )}
     </div>
   )
 }

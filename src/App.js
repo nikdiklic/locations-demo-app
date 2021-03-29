@@ -3,7 +3,7 @@ import Main from './components/Main'
 import store from './store'
 import { Provider } from 'react-redux'
 
-function App() {
+const App = () => {
   return (
     <Provider store={store}>
       <Main />

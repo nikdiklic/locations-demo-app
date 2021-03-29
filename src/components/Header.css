@@ -1,0 +1,21 @@
+#header {
+  padding: 20px 30px;
+  display: flex;
+  flex-direction: column;
+  height: 96px;
+  border-bottom: 1px solid #0011221a;
+}
+
+#subtitle {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 28px;
+  color: #0011224c;
+}
+
+#title {
+  color: #001122cc;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 28px;
+}

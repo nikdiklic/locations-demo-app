@@ -1,0 +1,5 @@
+#locations {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 12px 48px;
+}

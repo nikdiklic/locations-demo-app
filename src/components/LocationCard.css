@@ -1,0 +1,36 @@
+.location {
+  width: 340px;
+  height: 139px;
+  background-color: #fff;
+  padding: 10px 10px 15px 25px;
+  border: 1px solid #0011221a;
+  border-radius: 2px;
+  margin: 12px;
+}
+
+.location:hover {
+  background-color: #f6f6f6 !important;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #001122cc;
+  line-height: 42px;
+}
+
+.attribute {
+  display: flex;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  color: #001122cc;
+  align-items: center;
+}
+
+.icon {
+  opacity: 30%;
+  height: 14px;
+  width: 14px;
+  margin: 5px 8px 5px 0;
+}

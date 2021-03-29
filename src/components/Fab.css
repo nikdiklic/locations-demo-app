@@ -1,0 +1,16 @@
+.fab {
+  display: flex;
+  float: right;
+  height: 26px;
+  width: 26px;
+  border-radius: 50%;
+  background-color: white;
+  align-items: center;
+  justify-content: center;
+}
+
+.pencil {
+  opacity: 50%;
+  height: 14px;
+  width: 14px;
+}

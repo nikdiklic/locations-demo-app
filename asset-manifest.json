@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/locations-demo-app/static/css/main.0fda46a9.chunk.css",
+    "main.js": "/locations-demo-app/static/js/main.8449d1ca.chunk.js",
+    "main.js.map": "/locations-demo-app/static/js/main.8449d1ca.chunk.js.map",
+    "runtime-main.js": "/locations-demo-app/static/js/runtime-main.7f7b0747.js",
+    "runtime-main.js.map": "/locations-demo-app/static/js/runtime-main.7f7b0747.js.map",
+    "static/js/2.445612d3.chunk.js": "/locations-demo-app/static/js/2.445612d3.chunk.js",
+    "static/js/2.445612d3.chunk.js.map": "/locations-demo-app/static/js/2.445612d3.chunk.js.map",
+    "static/js/3.f52a6d07.chunk.js": "/locations-demo-app/static/js/3.f52a6d07.chunk.js",
+    "static/js/3.f52a6d07.chunk.js.map": "/locations-demo-app/static/js/3.f52a6d07.chunk.js.map",
+    "index.html": "/locations-demo-app/index.html",
+    "static/css/main.0fda46a9.chunk.css.map": "/locations-demo-app/static/css/main.0fda46a9.chunk.css.map",
+    "static/js/2.445612d3.chunk.js.LICENSE.txt": "/locations-demo-app/static/js/2.445612d3.chunk.js.LICENSE.txt",
+    "static/media/Close.924f720d.svg": "/locations-demo-app/static/media/Close.924f720d.svg",
+    "static/media/Edit.d41e05b4.svg": "/locations-demo-app/static/media/Edit.d41e05b4.svg",
+    "static/media/Timezone.04849c9e.svg": "/locations-demo-app/static/media/Timezone.04849c9e.svg",
+    "static/media/Users.cf2ab463.svg": "/locations-demo-app/static/media/Users.cf2ab463.svg",
+    "static/media/Views.750a5864.svg": "/locations-demo-app/static/media/Views.750a5864.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f7b0747.js",
+    "static/js/2.445612d3.chunk.js",
+    "static/css/main.0fda46a9.chunk.css",
+    "static/js/main.8449d1ca.chunk.js"
+  ]
+}
